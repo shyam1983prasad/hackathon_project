@@ -1,0 +1,3 @@
+Access GCP Link : https://hackathon-project-812361434761.us-central1.run.app/
+
+GCP Instance : https://console.cloud.google.com/run/detail/us-central1/hackathon-project/revisions?project=hackathon-project-453922
